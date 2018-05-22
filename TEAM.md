@@ -16,7 +16,7 @@ Technican
 Technik leader
 
 ## Sarah Hohn, 26
-personalmanagement  / training
+Personalmanagement  / Training
 
 ## Maria Franke, 30
 Monitoring
