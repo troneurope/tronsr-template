@@ -1,12 +1,10 @@
 ## Founder
 
-Name: Dirk Frank, 44
-Role: Leader
+## Dirk Frank, 44
+Leader
 
-## Team Member 1
-
-Name: Christopher Grohs, 32
-Role: Marketing
+## Christopher Grohs, 32
+Marketing
 
 ## Team Member 2
 
