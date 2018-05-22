@@ -7,13 +7,13 @@ Leader
 Marketing
 
 ## Andre Schröder
-Technican
+Technic
 
 ## Mark Steffen, 23
-Technican
+Technic
 
 ## Alexander Molke, 47
-Technik leader
+Technic
 
 ## Sarah Hohn, 26
 Personalmanagement  / Training
