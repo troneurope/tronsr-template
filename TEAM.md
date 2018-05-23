@@ -6,7 +6,7 @@ Leader
 ## Christopher Grohs, 32
 Marketing
 
-## Andre Schröder
+## Andre Schröder, 49
 Technic
 
 ## Mark Steffen, 23
@@ -21,7 +21,7 @@ Personalmanagement  / Training
 ## Maria Franke, 30
 Monitoring
 
-## Sven Schimweg, 38
+## Sven Schimweg, 40
 Monitoring / First Level Support
 
 ## Abdullah Mutlu, 29
