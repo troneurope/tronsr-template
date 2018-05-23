@@ -1,4 +1,4 @@
-Welcome to TRON-Europe.
+Welcome to TRON Europe
 
 If you have opened this web page, you are only a few clicks away of an outstanding investment. With a competent and experience team, TRON-Europe, stand by your side with 24 hours support. 
 
