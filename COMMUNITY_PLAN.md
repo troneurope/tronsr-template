@@ -10,7 +10,7 @@ Through this European network we create added value together with the community.
 By deploying this Europe-wide network, TRON-Europe relieves the main servers and can act as a backup for the main nodes if needed.
 Our advantage is that we provide our own, not cloud-based servers, which are flexible and scalable. These servers are independent of third parties, which promises high security and functionality. By using virtual server environments, we can use any operating system, which allows us to adapt to all needs individually.
 
-Hardware Specifications:
+Hardware Specifications by location (3x)
 - 64 CPU cores
 - 2 TB Ram
 - 20 TB SSD
