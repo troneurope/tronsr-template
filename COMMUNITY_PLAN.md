@@ -16,4 +16,5 @@ Hardware Specifications:
 - 20 TB SSD
 - 2 x 10 GB Network
 
-With the installation of a new server, a TRON Convention will take place, where the team from the respective country can announce theirself.
+With the installation of a new server, a TRON Convention will take place, where the team from the respective country can announce theirself. These teams are very important for the network, the economics and the growth of TRON. After reaching our target to connect all European countries, we gained 28x5 teams. These 140 teams are only and exclusive working for TRON.
+
