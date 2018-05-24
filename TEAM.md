@@ -15,9 +15,6 @@ Technic
 ## Alexander Molke, 47
 Technic
 
-## Sarah Hohn, 26
-Personalmanagement  / Training
-
 ## Maria Franke, 30
 Monitoring
 
