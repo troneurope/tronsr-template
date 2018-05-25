@@ -15,9 +15,12 @@ Many thanks for the numerous and positive feedback from our customers and the st
 
 
 
-Twitter:  https://twitter.com/europe_tron
+Twitter:
+https://twitter.com/europe_tron
 
-Telegram: https://t.me/tron-europe
+Telegram:
+https://t.me/tron-europe
 
-Website:  https://www.tron-europe.org
+Website:
+https://www.tron-europe.org
 
