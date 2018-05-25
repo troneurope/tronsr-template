@@ -6,3 +6,12 @@ Neben dem Respekt vor Cryptowährung, steht der Respekt vor der gesamten Menschh
 Das visionäre Denken treibt uns zum Erreichen immer neuer Meilensteine an und sorgt für die nachhaltige Entwicklung des TronCoins. Dank über 20 Jahren Erfahrungen in EDV Technik und der Fähigkeit eigene Ideen in die Entwicklung mit einzubringen, können wir eine 24 Stunden Betreuung und enorme Sicherheit durch Hochleistungsserver bieten.
 
 Vielen Dank für die zahlreiche und positive Resonanz unserer Kunden und das prägnante Vertrauen in unser Team.
+
+
+Facebook: https://www.facebook.com/tron.europe.1
+
+Twitter: https://twitter.com/europe_tron
+
+Telegram: https://t.me/tron_europe
+
+Website: https://www.tron-europe.org
