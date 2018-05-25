@@ -20,4 +20,3 @@ Twitter:				https://twitter.com/europe_tron
 Telegram:				https://t.me/tron_europe
 
 Website:				https://www.tron-europe.org
-
