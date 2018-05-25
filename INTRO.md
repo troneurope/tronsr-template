@@ -16,7 +16,7 @@ Many thanks for the numerous and positive feedback from our customers and the st
 Facebook:
 https://www.facebook.com/tron.europe.1
 
-Twitter:
+Twitter:<TD>
 https://twitter.com/europe_tron
 
 Telegram:
