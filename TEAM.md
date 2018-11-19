@@ -1,4 +1,4 @@
-![Logo](troneurope.png)
+![Logo](TEP.png)
 ## Dirk Frank, 44
 Founder & Initiator of TRON-Europe
 
