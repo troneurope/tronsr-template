@@ -1,25 +1,37 @@
 ## Founder
 
 ## Dirk Frank, 44
-Leader
+Founder & Initiator of TRON-Europe
 
-## Christopher Grohs, 32
+## Maik Schierholz
+Co-Leader & Head of Social Media
+
+## Trond Hov
 Marketing
 
-## Andre Schröder, 49
-Technic
+## Sarah Hohn
+Backoffice & Finances
 
-## Mark Steffen, 23
-Technic
+## Dr. Jörg Ernst
+Community Manager & Head of Forum
 
-## Alexander M.
-Technic
+## Roy Mikes
+Community Manager
 
-## Maria Franke, 30
-Monitoring
+## Gregor Tappeiner
+Community Manager
 
-## Sven Schimweg, 40
-Monitoring / First Level Support
+## Laurent
+Community Manager 
 
-## Abdullah Mutlu, 29
-Monitoring / Data Protection Supervisor
+## Peter Muchau
+Full Stack Developer 
+
+## Andy Schmid
+Developer & Head of Website
+
+## Jaysn Rye
+Solution Architect
+
+## Marco Jäger
+Developer
