@@ -1,5 +1,3 @@
-## Founder
-
 ## Dirk Frank, 44
 Founder & Initiator of TRON-Europe
 
