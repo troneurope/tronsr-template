@@ -1,4 +1,4 @@
-## Dirk Frank, 44
+## Dirk Frank
 Founder & Initiator of TRON-Europe
 
 ## Maik Schierholz
@@ -22,14 +22,8 @@ Community Manager
 ## Laurent
 Community Manager 
 
-## Peter Muchau
-Full Stack Developer 
-
 ## Andy Schmid
 Developer & Head of Website
 
-## Jaysn Rye
-Solution Architect
-
 ## Marco Jäger
-Developer
+Developer & Head of DExchange
